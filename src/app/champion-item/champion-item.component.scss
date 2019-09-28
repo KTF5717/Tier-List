@@ -1,0 +1,16 @@
+.champion-item {
+  display: flex;
+  margin-bottom: 3px;
+  border-bottom: 1px solid black;
+
+  .champion-image {
+    width: 30px;
+    height: 30px;
+  }
+
+  .champion-name {
+    padding-left: 8px;
+    padding-top: 2px;
+    font-size: 22px;
+  }
+}
